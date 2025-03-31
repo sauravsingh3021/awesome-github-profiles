@@ -5,6 +5,8 @@
 [![Read/Write profiles' data](https://github.com/EddieHubCommunity/awesome-github-profiles/actions/workflows/main.yml/badge.svg)](https://github.com/EddieHubCommunity/awesome-github-profiles/actions/workflows/main.yml)
 
 List of GitHub profiles that have awesome customization, that you can use for inspiration.\
+- [Saurav Singh](https://github.com/sauravsingh3021)
+Added my GitHub profile to the list.
 Feel free to submit a [pull request](https://github.com/EddieHubCommunity/awesome-github-profiles/pulls) with your suggestions for awesome GitHub profiles.
 
 <p align="center">
@@ -55,5 +57,5 @@ We take participation in our community as a harassment-free experience for every
 
 If you have experienced or been made aware of unacceptable behaviour, please remember that you can report this.  Read our [Code of Conduct](https://github.com/EddieHubCommunity/awesome-github-profiles/blob/main/CODE_OF_CONDUCT.md).
 
-- [Saurav Singh](https://github.com/sauravsingh3021)
+
 
